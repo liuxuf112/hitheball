@@ -32,7 +32,7 @@ frontend is using flutter as development tool. The map is using google map api, 
 
 backend is hosting on the heroku, using sql as database. All the code is to receive frontend http call and execute in sql. It takes github repo and hosting it. 
 
-####set up backend environment
+#### set up backend environment
 1. create account and project, link with backend github repo, then change the hostname in frontend
 2. download procfile, https://devcenter.heroku.com/articles/procfile
 3. follow this website setup sql on local https://devcenter.heroku.com/articles/heroku-postgresql
