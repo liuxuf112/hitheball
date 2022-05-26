@@ -1,3 +1,6 @@
 [submodule "hitheball-frontend"]
 	path = hitheball-frontend
 	url = https://github.com/liuxuf112/hitheball-frontend
+[submodule "hitheball-backend"]
+	path = hitheball-backend
+	url = https://github.com/liuxuf112/hitheball-backend
