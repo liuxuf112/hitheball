@@ -53,3 +53,4 @@ if there enough time, I strongly suggest start from the begining because there t
 4. it will be the best if you taken cs492 and cs493
 5. use andorid studio to development frontend is a good option 
 6. keep everything simply
+7. good luck, and have fun!
